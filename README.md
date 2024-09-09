@@ -3,7 +3,7 @@
 
 - 😄 If I'm not preparing for my classes you can find me playing pool, cards, bouldering, or having fun with my friends
 
-- Check out my <a href="https://www.linkedin.com/in/terrence-yang-68090631b/?trk=opento_sprofile_details"> LinkedIn </a> or email me at **terrenceyang06@gmail.com**
+- 📄 Check out my <a href="https://www.linkedin.com/in/terrence-yang-68090631b/?trk=opento_sprofile_details"> LinkedIn </a> or email me at **terrenceyang06@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
