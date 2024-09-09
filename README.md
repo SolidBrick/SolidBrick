@@ -1,7 +1,9 @@
 <h1 align="center">👋 Hello, I'm Terrence</h1>
 <h3 align="center">I'm a Computer Engineering student at the University of Waterloo</h3>
 
-- Check out my LinkedIn or email me at **terrenceyang06@gmail.com**
+- 😄 If I'm not preparing for my classes **you can find me playing pool, cards, bouldering, or having fun with my friends**
+
+- Check out my <a href="https://www.linkedin.com/in/terrence-yang-68090631b/?trk=opento_sprofile_details"> LinkedIn or email me at **terrenceyang06@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
